@@ -1,2 +1,2 @@
-Simple project for study makefiles
+Spirin_Ivan
 ==================================
